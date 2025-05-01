@@ -40,7 +40,7 @@
 
 ### Option 1: Using Make (Recommended)
 ```bash
-git clone https://github.com/mik-tf/quickdocu.git
+git clone https://github.com/ucli-tools/quickdocu
 cd quickdocu
 make build
 ```
