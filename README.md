@@ -159,3 +159,4 @@ This project is licensed under the **Apache 2.0 License**. See the [LICENSE](LIC
 ---
 
 For more information or to report issues, please visit the [GitHub repository](https://github.com/mik-tf/quickdocu).
+
